@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pokemon</title>
+</head>
+<body><table border="2">
+	<tr>
+		<th>Image</th>
+		<th>Name</th>
+		<th>Type</th>
+		<th>Evolves to</th>
+	</tr>
+	<tr>
+		<td><img src="bul.png"></td>
+		<td>Bulbasur</td>
+		<td>Grass/poison</td>
+		<td><a href="https://pokemongo.gishan.net/cp/ivysaur">Charmelon</a></td>
+	</tr>
+	<tr>
+		<td><img src="char.png"></td>
+		<td>Charmandar</td>
+		<td>Fire</td>
+		<td><a href="https://pokemongo.gishan.net/pokemon/charmeleon">Charmelon</a></td>
+	</tr><tr>
+		<td><img src="sqi.png"></td>
+		<td>Squirrel</td>
+		<td>Water</td>
+		<td><a href="https://pokemongo.gishan.net/pokemon/wartortle">Charmelon</a></td>
+	</tr>
+
+</body>
+</html>
