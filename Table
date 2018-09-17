@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+</head>
+<body>
+	<table border="5">
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+		</tr>
+		<tr>
+			<td>Bhai</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>Ram</td>
+			<td>22</td>
+		</tr>
+
+</body>
+</html>
